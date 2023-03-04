@@ -3,7 +3,7 @@ Embedded System Project Using AVR
 
 MicroController: AVR atmega 32
 
-Drivers: DIO, LCD, KEYPAD
+Drivers: DIO, LCD, KEYPAD, EEPROM
 
 at first we have to set the password for the first time, and when we re-open the safe, this step won't appear, because password is now saved on EEPROM
 ![c1](https://user-images.githubusercontent.com/120275931/222932468-36724656-33b0-4d79-915f-6663dba505b3.png)
