@@ -8,7 +8,7 @@ Drivers: DIO, LCD, KEYPAD, EEPROM
 At first we have to set the password for the first time, and when we re-open the safe, this step won't appear, because password is now saved on EEPROM
 ![c1](https://user-images.githubusercontent.com/120275931/222932468-36724656-33b0-4d79-915f-6663dba505b3.png)
 
-Choose between Login or ReSet
+Choose between Login or Reset
 ![c2](https://user-images.githubusercontent.com/120275931/222932473-af00cf61-7301-4a28-8725-56788948e3c2.png)
 
 If Login is Selected, then password has to be entered and check if it's true or not, we have 3-trails or the safe will be closed 
